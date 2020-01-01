@@ -295,5 +295,10 @@ Machine Learning production software requires a more diverse set of test suites 
 
 <a name="pipe">[3]</a>: [TFX: Real World Machine Learning in Production](https://cdn.oreillystatic.com/en/assets/1/event/298/TFX_%20Production%20ML%20pipelines%20with%20TensorFlow%20Presentation.pdf)
 
+
+
+## 行业实践
+1. [领英的Pro-ML](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9739665824835600176%22%7D&n_type=0&p_from=1)
+
    
     
